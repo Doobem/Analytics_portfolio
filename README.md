@@ -2,23 +2,23 @@
 
 ### Education
 Information Technology Management. MSc <br>
-Computer Science, BSc
+Computer Science, BSc <br>
 
 ### Work Exprience
-Data Analyst
-S.Obiugo Foundation
-April 2020 – August 2021  Nigeria
+#### Data Analyst
+S.Obiugo Foundation <br>
+April 2020 – August 2021  Nigeria <br>
 • Created various Excel documents to assist with pulling metrics data
 and presenting information to stakeholders for concise explanations
-of best placement for needed resources.!
+of best placement for needed resources.<br>
 • Analyzed key aspects of business to evaluate factors driving results
-and summarized into presentations.
+and summarized into presentations.<br>
 • Utilized data visualization tools effectively communicate business
-insights.
+insights.<br>
 • Extracted and interpreted data pattern’s to translate findings into
-actionable outcomes.
+actionable outcomes.<br>
 • Delivered analysis of market, sales and consumer trend impact on
-long and short term strategies.
+long and short term strategies.<br>
 
 
 Product Analyst
