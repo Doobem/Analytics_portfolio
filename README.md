@@ -22,7 +22,7 @@ long and short term strategies.<br>
 
 
 #### Product Analyst
-Wakanow
+Wakanow <br>
 March 2019 – March 2020, Nigeria. <br>
 • Worked with development team to define and implement customer
 change requests to enhance product functionality. <br>
@@ -36,7 +36,7 @@ results and optimize marketing strategies.<br>
 
 
 #### IT Support
-New Horizon
+New Horizon <br>
 April 2017 – Sept. 2017, Nigeria <br>
 • Updated firmware, pushed out files via FTP and troubleshoot
 connectivity issues with remote monitoring equipment.<br>
@@ -44,6 +44,6 @@ connectivity issues with remote monitoring equipment.<br>
 solutions.<br>
 • Tested systems to identify root causes to problems and uncover bugs. <br>
 
-### Projects
+
 
 ### Projects
