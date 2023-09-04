@@ -1,7 +1,11 @@
 # Data Analyst
 
 #### Technical skills: Tableau, Power BI, Microsoft Excel, SQL, Python
-
+#### Certification
+Microsoft Power Platform Fundatmentals <br>
+Advanced Google Analytics<br>
+Google Analytics for Beginners <br>
+Cybersecurity Essentials <br>
 ### Education
 - MSc., Information Technology Management | Cardiff Metropolitan University (November,2022).  <br>
 - BSc., Computer Science | Madonna University, Nigeria ( August, 2018).<br>
