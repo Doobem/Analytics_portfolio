@@ -1,7 +1,7 @@
 # Data Analyst
 
 ### Education
-Information Technology Management. MSc
+Information Technology Management. MSc <br>
 Computer Science, BSc
 
 ### Work Exprience
