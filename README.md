@@ -10,7 +10,7 @@ S.Obiugo Foundation
 April 2020 – August 2021  Nigeria
 • Created various Excel documents to assist with pulling metrics data
 and presenting information to stakeholders for concise explanations
-of best placement for needed resources.
+of best placement for needed resources.!
 • Analyzed key aspects of business to evaluate factors driving results
 and summarized into presentations.
 • Utilized data visualization tools effectively communicate business
