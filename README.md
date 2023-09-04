@@ -60,3 +60,5 @@ In the extremely competitive healthcare sector, developing a platform for connec
 
 (https://prod-uk-a.online.tableau.com/#/site/myvisuals/workbooks/190463?:origin=card_share_link)
 
+#### Stock Market Prediction using Machine Learning
+Analaysing the stock market using Matplotlab and other libriaries in python.
