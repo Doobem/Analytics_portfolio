@@ -49,3 +49,5 @@ solutions.<br>
 
 
 ### Projects
+##### An Analysis on social CRM in Healthcare sector: Examining hospitals in United Kingdom.
+In the extremely competitive healthcare sector, developing a platform for connecting and interacting with patients and their families offers a framework for both attracting and maintaining new clients through social media marketing backed by social CRM. The study's findings added to the body of knowledge by demonstrating how customers' perceptions of the worth and utility of the organisations' product and service offerings via social CRM are related. The outcome so points towards a new path for future research. The scope of this research will be limited to healthcare organisations in United Kingdom, with the focus on the hospitals operating in London and Newcastle Upon Tyne which are as follows: (i) St Thomas Hospital; (ii) University College Hospital London; and (iii) The Royal Victoria Infirmary. These hospitals were chosen because they were recognised as the world best hospitals by Newsweek in partner with Statista Inc in 2021.
