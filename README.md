@@ -21,28 +21,28 @@ actionable outcomes.<br>
 long and short term strategies.<br>
 
 
-Product Analyst
+#### Product Analyst
 Wakanow
-March 2019 – March 2020, Nigeria
+March 2019 – March 2020, Nigeria. <br>
 • Worked with development team to define and implement customer
-change requests to enhance product functionality.
+change requests to enhance product functionality. <br>
 • Attended weekly development team meetings and assisted in
 identification and resolution of issues to maintain timeline and
-budget integrity.
+budget integrity.<br>
 • Created customized marketing materials to increase product
-awareness.
+awareness. <br>
 • Collected customer’s data using various research methods to broaden
-results and optimize marketing strategies.
+results and optimize marketing strategies.<br>
 
 
-IT Support
+#### IT Support
 New Horizon
-April 2017 – Sept. 2017, Nigeria
+April 2017 – Sept. 2017, Nigeria <br>
 • Updated firmware, pushed out files via FTP and troubleshoot
-connectivity issues with remote monitoring equipment.
+connectivity issues with remote monitoring equipment.<br>
 • Researched problems and used technical documentation to apply
-solutions.
-• Tested systems to identify root causes to problems and uncover bugs
+solutions.<br>
+• Tested systems to identify root causes to problems and uncover bugs. <br>
 
 ### Projects
 
