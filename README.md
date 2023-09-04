@@ -1,8 +1,10 @@
 # Data Analyst
 
+#### Technical skills: Tableau, Power BI, Microsoft Excel, SQL, Python
+
 ### Education
-Information Technology Management. MSc <br>
-Computer Science, BSc <br>
+- MSc., Information Technology Management | Cardiff Metropolitan University (November,2022).  <br>
+- BSc., Computer Science | Madonna University, Nigeria ( August, 2018).<br>
 
 ### Work Exprience
 #### Data Analyst
