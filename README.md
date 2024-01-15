@@ -11,34 +11,23 @@ Cybersecurity Essentials <br>
 - BSc., Computer Science | Madonna University, Nigeria ( August, 2018).<br>
 
 ### Work Exprience
-#### Data Analyst
+#### Business Intelligence Data Analyst
 S.Obiugo Foundation <br>
-April 2020 – August 2021  Nigeria <br>
-• Created various Excel documents to assist with pulling metrics data
-and presenting information to stakeholders for concise explanations
-of best placement for needed resources.<br>
-• Analyzed key aspects of business to evaluate factors driving results
-and summarized into presentations.<br>
-• Utilized data visualization tools effectively communicate business
-insights.<br>
-• Extracted and interpreted data pattern’s to translate findings into
-actionable outcomes.<br>
-• Delivered analysis of market, sales and consumer trend impact on
-long and short term strategies.<br>
+April 2020 – Present  Nigeria <br>
+•Integrates BI assets into customer relationship management tasks,
+improving service personnel’s available intelligence.
+• Responsible for drafting strategic business intelligence road map, complete with data governance policies and tactical information safeguards.
+• Develops dashboard and customized reports which aid to present business performance metrics with Power BI and Tableau.
+• Utilising SQL and Excel to gather, compile and analyse data for creating graphs and charts that streamlines the decision-making process.
+• Collaborates with stakeholders to identify business needs and data sources.<br>
 
 
-#### Product Analyst
+#### Data Analyst
 Wakanow <br>
 March 2019 – March 2020, Nigeria. <br>
-• Worked with development team to define and implement customer
-change requests to enhance product functionality. <br>
-• Attended weekly development team meetings and assisted in
-identification and resolution of issues to maintain timeline and
-budget integrity.<br>
-• Created customized marketing materials to increase product
-awareness. <br>
-• Collected customer’s data using various research methods to broaden
-results and optimize marketing strategies.<br>
+• Created various Excel documents to assist with pulling metrics data and presenting information to stakeholders for concise explanations of best placement for needed resources.
+• Worked with business intelligence software and various reports to glean insights into trends and prospects.
+• Utilized data visualization tools to effectively communicate business insights.<br>
 
 
 #### IT Support
