@@ -13,7 +13,7 @@ Cybersecurity Essentials <br>
 ### Work Exprience
 #### Business Intelligence Data Analyst
 S.Obiugo Foundation <br>
-April 2020 – Present  Nigeria <br>
+April 2020 – Present   <br>
 •Integrates BI assets into customer relationship management tasks,
 improving service personnel’s available intelligence.
 • Responsible for drafting strategic business intelligence road map, complete with data governance policies and tactical information safeguards.
@@ -24,7 +24,7 @@ improving service personnel’s available intelligence.
 
 #### Data Analyst
 Wakanow <br>
-March 2019 – March 2020, Nigeria. <br>
+March 2019 – March 2020. <br>
 • Created various Excel documents to assist with pulling metrics data and presenting information to stakeholders for concise explanations of best placement for needed resources.
 • Worked with business intelligence software and various reports to glean insights into trends and prospects.
 • Utilized data visualization tools to effectively communicate business insights.<br>
@@ -32,7 +32,7 @@ March 2019 – March 2020, Nigeria. <br>
 
 #### IT Support
 New Horizon <br>
-April 2017 – Sept. 2017, Nigeria <br>
+April 2017 – Sept. 2017. <br>
 • Updated firmware, pushed out files via FTP and troubleshoot
 connectivity issues with remote monitoring equipment.<br>
 • Researched problems and used technical documentation to apply
