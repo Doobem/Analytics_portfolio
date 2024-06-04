@@ -2,7 +2,7 @@
 
 #### Technical skills: Tableau, Power BI, Microsoft Excel, SQL, Python
 #### Certification
-Microsoft Power BI Data Analyst
+Microsoft Power BI Data Analyst <br>
 Microsoft Power Platform Fundatmentals <br>
 Advanced Google Analytics<br>
 Google Analytics for Beginners <br>
