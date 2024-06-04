@@ -2,6 +2,7 @@
 
 #### Technical skills: Tableau, Power BI, Microsoft Excel, SQL, Python
 #### Certification
+Microsoft Power BI Data Analyst
 Microsoft Power Platform Fundatmentals <br>
 Advanced Google Analytics<br>
 Google Analytics for Beginners <br>
@@ -13,13 +14,13 @@ Cybersecurity Essentials <br>
 ### Work Exprience
 #### Business Intelligence Data Analyst
 S.Obiugo Foundation <br>
-April 2020 – Present   <br>
-•Integrates BI assets into customer relationship management tasks,
+April 2020 – March 2024   <br>
+•Integrated BI assets into customer relationship management tasks,
 improving service personnel’s available intelligence.
-• Responsible for drafting strategic business intelligence road map, complete with data governance policies and tactical information safeguards.
-• Develops dashboard and customized reports which aid to present business performance metrics with Power BI and Tableau.
-• Utilising SQL and Excel to gather, compile and analyse data for creating graphs and charts that streamlines the decision-making process.
-• Collaborates with stakeholders to identify business needs and data sources.<br>
+• Drafted strategic business intelligence road map, complete with data governance policies and tactical information safeguards.
+• Developed dashboard and customized reports which aid to present business performance metrics with Power BI and Tableau.
+• Utilised SQL and Excel to gather, compile and analyse data for creating graphs and charts that streamlines the decision-making process.
+• Collaborated with stakeholders to identify business needs and data sources.<br>
 
 
 #### Data Analyst
